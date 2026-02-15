@@ -1,0 +1,1 @@
+This study evaluates operational cloud seeding programs in the central Rocky Mountains of Colorado during winter seasons from 2020–2024. The region was selected due to its importance for snowpack-driven water supply and the availability of documented seeding operations.
